@@ -4,5 +4,6 @@ add new merge
 
 have some change not commit
 
+partner modify some bug`
 
 deal some bugs by self
