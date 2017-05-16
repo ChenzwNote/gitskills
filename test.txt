@@ -1,1 +1,3 @@
 this is a test
+
+添加一条中文信息
